@@ -5,7 +5,7 @@ Unlisted YouTube video:
 https://youtu.be/TmuLVb77ehE
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+https://cmt3.research.microsoft.com/User/Login
 
 Paper title:
 Sarcasm Detection in Textual Data using BERT:
@@ -15,15 +15,20 @@ Paper presentation (anyone can view without login):
 https://drive.google.com/file/d/1I081DBLg3g29YZtfPsBhp7dzmH3TjIrO/view?usp=sharing
 
 Paper submission date (to workshop/conference):
+9/11/2023
 
 Paper submission ID: (received) from conference/workshop
+363
 
+Paper submission summary and email receipt:
+https://drive.google.com/file/d/1EAnL2FFEBjZPkMuPXriZNkNvuOBGQmVT/view?usp=sharing
+https://drive.google.com/file/d/1OKCZwYkZ_M-ofxBW7ocgfx3ULktCCnbY/view?usp=sharing
 
 Conference Name:
-
+26th International Conference on Computer and Information Technology
 
 Conference URL:
-http://confsite/...
+https://iccit.org.bd/2023/
 
 Group Number:
 15
